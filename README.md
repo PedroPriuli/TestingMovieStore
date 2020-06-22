@@ -1,6 +1,9 @@
 # TestingMovieStore
 Este projeto teve como principal finalidade, apresentar um pouco da arquitetura, iniciei o projeto no dia 18/06/2020 
 com data sugerida para termino dia 22/06.
+
+Ao rodar a aplicação, na pagina Default, terá uma apresentação básica do prototipo para orientação do funcionamento do sistema
+
 O escopo do projeto (Locadora de filmes) foi :
 
 Avaliação técnica para desenvolvedor back-end
